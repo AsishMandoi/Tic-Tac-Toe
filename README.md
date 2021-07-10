@@ -1,6 +1,6 @@
 # Tic-Tac-Toe: A React App
 
-[Here](https://asishmandoi.github.io/Tic-Tac-Toe-app/) is the link to the publicly deployed app.
+[Here](https://asishmandoi.github.io/Tic-Tac-Toe-app/) is the link to the deployed app.
 
 This is a tic-tac-toe game that:
 
